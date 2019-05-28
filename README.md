@@ -1,4 +1,6 @@
 ## Single Page Application With Vue
+![2019-05-28 17 05 39](https://user-images.githubusercontent.com/12602019/58461986-e382e180-816b-11e9-9a14-ecbcd914d41b.gif)
+
 ## Build Setup
 
 ``` bash
@@ -16,8 +18,6 @@ cd single_page_application
 
 npm run dev
 ```
-
-![2019-05-28 17 05 39](https://user-images.githubusercontent.com/12602019/58461986-e382e180-816b-11e9-9a14-ecbcd914d41b.gif)
 
 ```bash
 src
