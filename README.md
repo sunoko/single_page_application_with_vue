@@ -1,7 +1,4 @@
-# single_page_application
-
-> A Vue.js project
-
+## Single Page Application With Vue
 ## Build Setup
 
 ``` bash
@@ -20,4 +17,19 @@ cd single_page_application
 npm run dev
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![2019-05-28 17 05 39](https://user-images.githubusercontent.com/12602019/58461986-e382e180-816b-11e9-9a14-ecbcd914d41b.gif)
+
+```bash
+src
+├── App.vue
+├── assets
+│   └── logo.png
+├── components
+│   ├── HelloWorld.vue
+│   ├── about.vue
+│   ├── contact.vue
+│   └── top.vue
+├── main.js
+└── router
+    └── index.js
+```
